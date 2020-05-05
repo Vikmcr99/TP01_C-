@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Victor_Robinson_TP1/1.0.0": {
+        "runtime": {
+          "Victor_Robinson_TP1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Victor_Robinson_TP1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

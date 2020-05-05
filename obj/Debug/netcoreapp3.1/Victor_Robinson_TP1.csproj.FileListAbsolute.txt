@@ -1,0 +1,13 @@
+C:\Users\victo\source\repos\Victor_Robinson_TP1\Victor_Robinson_TP1\bin\Debug\netcoreapp3.1\Victor_Robinson_TP1.exe
+C:\Users\victo\source\repos\Victor_Robinson_TP1\Victor_Robinson_TP1\bin\Debug\netcoreapp3.1\Victor_Robinson_TP1.deps.json
+C:\Users\victo\source\repos\Victor_Robinson_TP1\Victor_Robinson_TP1\bin\Debug\netcoreapp3.1\Victor_Robinson_TP1.runtimeconfig.json
+C:\Users\victo\source\repos\Victor_Robinson_TP1\Victor_Robinson_TP1\bin\Debug\netcoreapp3.1\Victor_Robinson_TP1.runtimeconfig.dev.json
+C:\Users\victo\source\repos\Victor_Robinson_TP1\Victor_Robinson_TP1\bin\Debug\netcoreapp3.1\Victor_Robinson_TP1.dll
+C:\Users\victo\source\repos\Victor_Robinson_TP1\Victor_Robinson_TP1\bin\Debug\netcoreapp3.1\Victor_Robinson_TP1.pdb
+C:\Users\victo\source\repos\Victor_Robinson_TP1\Victor_Robinson_TP1\obj\Debug\netcoreapp3.1\Victor_Robinson_TP1.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\Victor_Robinson_TP1\Victor_Robinson_TP1\obj\Debug\netcoreapp3.1\Victor_Robinson_TP1.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Victor_Robinson_TP1\Victor_Robinson_TP1\obj\Debug\netcoreapp3.1\Victor_Robinson_TP1.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\Victor_Robinson_TP1\Victor_Robinson_TP1\obj\Debug\netcoreapp3.1\Victor_Robinson_TP1.AssemblyInfo.cs
+C:\Users\victo\source\repos\Victor_Robinson_TP1\Victor_Robinson_TP1\obj\Debug\netcoreapp3.1\Victor_Robinson_TP1.dll
+C:\Users\victo\source\repos\Victor_Robinson_TP1\Victor_Robinson_TP1\obj\Debug\netcoreapp3.1\Victor_Robinson_TP1.pdb
+C:\Users\victo\source\repos\Victor_Robinson_TP1\Victor_Robinson_TP1\obj\Debug\netcoreapp3.1\Victor_Robinson_TP1.genruntimeconfig.cache
